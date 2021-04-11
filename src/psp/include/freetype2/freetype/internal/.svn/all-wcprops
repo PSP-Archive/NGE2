@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/internal.h
+END
+tttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/tttypes.h
+END
+ftdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftdebug.h
+END
+svsfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svsfnt.h
+END
+ftstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftstream.h
+END
+ftdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftdriver.h
+END
+ftobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftobjs.h
+END
+ftvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftvalid.h
+END
+pcftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/pcftypes.h
+END
+svotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svotval.h
+END
+svxf86nm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svxf86nm.h
+END
+psaux.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/psaux.h
+END
+svpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svpfr.h
+END
+ftmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftmemory.h
+END
+svpsinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svpsinfo.h
+END
+ftserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftserv.h
+END
+t1types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/t1types.h
+END
+ftrfork.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftrfork.h
+END
+svwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svwinfnt.h
+END
+svgldict.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svgldict.h
+END
+svmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svmm.h
+END
+pshints.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/pshints.h
+END
+fttrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/fttrace.h
+END
+svpostnm.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svpostnm.h
+END
+autohint.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/autohint.h
+END
+ftcalc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftcalc.h
+END
+svpscmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svpscmap.h
+END
+svttcmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svttcmap.h
+END
+ftgloadr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/ftgloadr.h
+END
+svbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/svbdf.h
+END
+sfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/internal/sfnt.h
+END

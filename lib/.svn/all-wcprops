@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/3/trunk/lib
+END
+libpmp.a
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/lib/libpmp.a
+END
+libmikmod.a
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/lib/libmikmod.a
+END
+libnge2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/lib/libnge2.lib
+END
+libfreetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/lib/libfreetype.a
+END
+libsqlite3.a
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/lib/libsqlite3.a
+END
+libpng.a
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/lib/libpng.a
+END
+libgif.a
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/lib/libgif.a
+END
+libjpeg.a
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/lib/libjpeg.a
+END
+libungif.a
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/lib/libungif.a
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/3/trunk/lib/libz.a
+END
+libnge2.a
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/lib/libnge2.a
+END

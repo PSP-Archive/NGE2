@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/win32depends/lib
+END
+libfreetype.dll.a
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/win32depends/lib/libfreetype.dll.a
+END
+libungif.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32depends/lib/libungif.lib
+END
+SDL_ttf.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/win32depends/lib/SDL_ttf.lib
+END
+zdll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/win32depends/lib/zdll.lib
+END
+freetype-bcc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/win32depends/lib/freetype-bcc.lib
+END
+libpng.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/win32depends/lib/libpng.lib
+END
+freetype.def
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32depends/lib/freetype.def
+END
+libjpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/win32depends/lib/libjpeg.lib
+END
+GLUT32.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/win32depends/lib/GLUT32.LIB
+END
+SDL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/win32depends/lib/SDL.lib
+END
+freetype.lib
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32depends/lib/freetype.lib
+END
+SDL_image.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/lib/SDL_image.lib
+END
+opengl.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/win32depends/lib/opengl.lib
+END
+SDL_mixer.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/lib/SDL_mixer.lib
+END
+SDL_gfx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/win32depends/lib/SDL_gfx.lib
+END
+glu.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/win32depends/lib/glu.lib
+END
+SDLmain.lib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/win32depends/lib/SDLmain.lib
+END
+libsqlite.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/lib/libsqlite.lib
+END
+libcppsql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/lib/libcppsql.lib
+END

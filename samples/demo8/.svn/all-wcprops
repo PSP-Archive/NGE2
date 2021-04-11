@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/samples/demo8
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo8/Makefile
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo8/test.cpp
+END
+ncmake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/samples/demo8/ncmake.bat
+END

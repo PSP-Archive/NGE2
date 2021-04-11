@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache
+END
+ftcimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftcimage.h
+END
+ftccache.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftccache.h
+END
+ftcmru.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftcmru.h
+END
+ftcmanag.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftcmanag.h
+END
+ftcglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftcglyph.h
+END
+ftcsbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftcsbits.h
+END
+ftccmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/cache/ftccmap.h
+END

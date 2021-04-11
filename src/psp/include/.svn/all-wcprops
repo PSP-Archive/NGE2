@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/psp/include
+END
+ft2build.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/psp/include/ft2build.h
+END
+gif_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/psp/include/gif_lib.h
+END
+jmorecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/psp/include/jmorecfg.h
+END
+jpeglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/psp/include/jpeglib.h
+END
+pmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/psp/include/pmp.h
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/psp/include/zconf.h
+END
+jconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/psp/include/jconfig.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/src/psp/include/zlib.h
+END
+mikmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/psp/include/mikmod.h
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/src/psp/include/jerror.h
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/psp/include/png.h
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/src/psp/include/pngconf.h
+END

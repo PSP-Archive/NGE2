@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/src/hge
+END
+hgepmanager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/hge/hgepmanager.cpp
+END
+hgerect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/hge/hgerect.cpp
+END
+hgecolor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/src/hge/hgecolor.cpp
+END
+hgerect.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/src/hge/hgerect.h
+END
+hgevector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/hge/hgevector.cpp
+END
+hgeparticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/src/hge/hgeparticle.cpp
+END
+hgecolor.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/hge/hgecolor.h
+END
+hgevector.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/src/hge/hgevector.h
+END
+hgeparticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/src/hge/hgeparticle.h
+END

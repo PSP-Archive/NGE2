@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config/ftstdlib.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config/ftmodule.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config/ftconfig.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win32depends/include/freetype/config/ftoption.h
+END

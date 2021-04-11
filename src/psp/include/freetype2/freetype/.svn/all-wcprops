@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftoutln.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftcache.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftwinfnt.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ttunpat.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsynth.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/fterrdef.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftmm.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftgzip.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ttnameid.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/fterrors.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftlzw.h
+END
+ftsysmem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsysmem.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftglyph.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsystem.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftbbox.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftbdf.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftxf86.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsizes.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/fttrigon.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/fttypes.h
+END
+ftsysio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsysio.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftstroke.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftchapters.h
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftmodapi.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftlist.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/tttags.h
+END
+ftbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftbitmap.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftrender.h
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftimage.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/t1tables.h
+END
+ftotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftotval.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftsnames.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftpfr.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/tttables.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/ftmoderr.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/src/psp/include/freetype2/freetype/freetype.h
+END

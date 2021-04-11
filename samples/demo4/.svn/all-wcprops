@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/samples/demo4
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo4/test.cpp
+END
+cAnimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/samples/demo4/cAnimation.cpp
+END
+ncmake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/samples/demo4/ncmake.bat
+END
+cAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/samples/demo4/cAnimation.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo4/Makefile
+END

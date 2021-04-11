@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/samples/demo5
+END
+CppSQLite3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/samples/demo5/CppSQLite3.cpp
+END
+CppSQLite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/samples/demo5/CppSQLite3.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo5/Makefile
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/samples/demo5/test.cpp
+END

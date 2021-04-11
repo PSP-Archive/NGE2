@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/3/trunk/include/helper
+END
+pack_psp.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/include/helper/pack_psp.h
+END
+dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/include/helper/dictionary.h
+END
+nge_effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/include/helper/nge_effect.h
+END
+CppSQLite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/include/helper/CppSQLite3.h
+END
+iniparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/include/helper/iniparser.h
+END

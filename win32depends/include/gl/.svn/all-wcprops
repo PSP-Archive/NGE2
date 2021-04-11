@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/win32depends/include/gl
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32depends/include/gl/glu.h
+END
+FGL.H
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32depends/include/gl/FGL.H
+END
+GLUT.H
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/include/gl/GLUT.H
+END
+FGLU.H
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/include/gl/FGLU.H
+END
+TUBE.H
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win32depends/include/gl/TUBE.H
+END
+FGLUT.H
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/win32depends/include/gl/FGLUT.H
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/win32depends/include/gl/gl.h
+END
+GLSMAP.H
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/win32depends/include/gl/GLSMAP.H
+END

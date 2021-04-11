@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache
+END
+ftcsbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftcsbits.h
+END
+ftccmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftccmap.h
+END
+ftcimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftcimage.h
+END
+ftccache.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftccache.h
+END
+ftcmru.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftcmru.h
+END
+ftcmanag.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftcmanag.h
+END
+ftcglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/win32depends/include/freetype2/freetype/cache/ftcglyph.h
+END

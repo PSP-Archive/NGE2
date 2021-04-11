@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/win32_dll
+END
+freetype6.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/win32_dll/freetype6.dll
+END
+libvorbisfile-3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/win32_dll/libvorbisfile-3.dll
+END
+libpng12.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/win32_dll/libpng12.dll
+END
+libpng13.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/win32_dll/libpng13.dll
+END
+libogg-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/win32_dll/libogg-0.dll
+END
+zlib1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3/trunk/win32_dll/zlib1.dll
+END
+SDL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/win32_dll/SDL.dll
+END
+libungif4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/win32_dll/libungif4.dll
+END
+jpeg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/win32_dll/jpeg.dll
+END
+SDL_mixer.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/win32_dll/SDL_mixer.dll
+END
+libvorbis-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/win32_dll/libvorbis-0.dll
+END

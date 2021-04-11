@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/src/audiosystem
+END
+play_pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/audiosystem/play_pcm.h
+END
+play_mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/audiosystem/play_mp3.h
+END
+play_ogg_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_ogg_win.c
+END
+play_pcm_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_pcm_win.c
+END
+play_mp3_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_mp3_win.c
+END
+play_ogg_psp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_ogg_psp.c
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/src/audiosystem/interface.h
+END
+libcoolaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/libcoolaudio.c
+END
+play_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/src/audiosystem/play_ogg.h
+END
+play_mp3_psp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_mp3_psp.c
+END
+play_pcm_psp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/src/audiosystem/play_pcm_psp.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/src/debug
+END
+mmgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3/trunk/src/debug/mmgr.h
+END
+mmgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/debug/mmgr.cpp
+END
+nommgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/src/debug/nommgr.h
+END
